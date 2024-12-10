@@ -33,13 +33,17 @@ Après un clic droit sur l'OU "Wilders_students", dans le menu déroulant choisi
 
 Créer un nouvel utilisateur "Wilder1" par exemple
 
-![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/4-2-Creation_utilisateur.png)
+![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/4-3-creation_utilisateur.png)
+
+Puis définir le mot de passe et les règles à suivre pour la politique de votre organisation concernant les mots de passe
+
+![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/4-4-creation_utilisateur.png)
 
 
 ## 5) Rattacher l'utilisateur a un groupe
 
 Dans les propriétes du groupe "Students" choisir "Membres" et ajouter le nouvel utilisateur à ce groupe
 
-![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/5-Ajout_utilisateur_au_groupe.png)
+![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/5-1-Ajout_utilisateur_au_groupe.png)
 
 
