@@ -44,6 +44,12 @@ Puis définir le mot de passe et les règles à suivre pour la politique de votr
 
 Dans les propriétes du groupe "Students" choisir "Membres" et ajouter le nouvel utilisateur à ce groupe
 
+ou plus rapide, faire un clic droit sur l'utilisateur et choisir "Ajouter a un groupe"
+
 ![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/5-1-Ajout_utilisateur_au_groupe.png)
+
+Choisir OK pour finaliser
+
+![ADDS_OU](https://github.com/Hebus79/ADDS_Windows_OU/blob/main/images/5-2-Ajout_utilisateur_au_groupe.png)
 
 
